@@ -31,4 +31,3 @@ A continuación, se listan las instrucciones generales para la implementación.
 
 ---
 
-> 💡 **Nota:** El módulo MCP2515 se comunica con el Arduino mediante la interfaz **SPI**, por lo que es importante respetar el pinout indicado.
