@@ -1,4 +1,4 @@
-# Laboratorio: Implementación de una Red CAN con Arduino y MCP2515
+# Taller 4: Implementación de una Red CAN con Arduino y MCP2515
 
 En esta primera parte del laboratorio se implementará una red **CAN de 2 nodos** (ver Figura 2.1).  
 Un nodo **Tx** transmite un mensaje tipo CAN de temperatura, que lee del potenciómetro conectado al Arduino, y el segundo nodo **Rx** lo recibe y lo imprime por el monitor serial.  
